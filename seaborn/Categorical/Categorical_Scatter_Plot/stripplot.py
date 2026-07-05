@@ -8,3 +8,5 @@ sns.catplot(data=tips,x="day",y="total_bill",hue="sex",kind="strip",jitter=True)
 
 
 plt.show()
+
+#jitter=True some time defualt
